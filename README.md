@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)](https://pytorch.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-Baselines-F7931E?logo=scikit-learn)](https://scikit-learn.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.2+-F7931E?logo=scikit-learn)](https://scikit-learn.org)
 
 Neural network implementation for heart disease prediction using **PyTorch** with BatchNorm, Dropout, and learning rate scheduling. Compared against Random Forest and Logistic Regression baselines.
 
